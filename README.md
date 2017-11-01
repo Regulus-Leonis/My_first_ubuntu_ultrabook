@@ -28,4 +28,16 @@ Settings of my ubuntu ultarboook
   
     In system settings:file:///the_path_of_the_pac_file/autoproxy.pac
   
-4.Install
+4.Install gnome-tweak-tool
+
+    sudo apt-get install gnome-tweak-tool
+  
+5.Install Virtualbox
+
+    Download deb package from https://www.virtualbox.org/wiki/Linux_Downloads
+    
+    cd Downloads/
+    
+    sudo dpkg -i  **.deb
+    
+6.
